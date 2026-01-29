@@ -19,14 +19,10 @@ Riders need a fast, honest answer to a simple question:
 
 For a selected subway line (and direction), the tool provides:
 
-1. Current status (now)
-- Whether flooding is reported or confirmed at the moment of search
-2. Near‑future flood risk (next 30–45 minutes)
-- An evaluation of whether flooding is likely to emerge or worsen during the trip window
-3. Plain‑language explanation
-- Why the system reached this assessment
-4. Suggested actions
-- Practical guidance (wait, reroute, proceed with caution)
+1. **Current status (now)**: Whether flooding is reported or confirmed at the moment of search
+2. **Near‑future flood risk (next 30–45 minutes)**: An evaluation of whether flooding is likely to emerge or worsen during the trip window
+3. **Plain‑language explanation**: Why the system reached this assessment
+4. **Suggested actions**: Practical guidance (wait, reroute, proceed with caution)
 
 Results are presented as a single, mobile‑friendly result card designed for use during active weather.
 
